@@ -1,0 +1,6 @@
+to add the ubuntu and these codes and commands to your windows and cmd do all of below steps:
+1. first go to control panel / programs/ turn windows features on or off then tick the windows subsystem for linux and restart..
+2. open cmd and enter 'bash' or continue with this steps " https://learn.microsoft.com/en-us/windows/wsl/setup/environment#set-up-your-linux-username-and-password "
+2-1.just install ubunto that hasn't version code then download ubunto.exe from microsoftstore and install and restart
+3.at last , after restart when you open cmd , it  ask you for a username and password to create an account ,send to it 
+4.end
